@@ -1,0 +1,67 @@
+nav{
+    background-color: #FFB623;
+    height: 20%;
+}
+body{
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.label_form{
+    font-size: 150%;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+hr{
+    color: black;
+    width: 20%;
+    height: 50%;
+}
+
+.titulo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    width: 70%;
+    margin: 1% auto;
+    font-size: 150%;
+    line-height: 1.5;
+    position: relative;
+}
+
+.como_pedir_chopp{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+h5{
+    display: flex;
+    justify-content: center;
+    font-size: 200%
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #29A71A;
+}
+
+.galeria_imgs_videos{
+    background-color: linen;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.imgs_videos_galeria{
+    width: 80%;
+    height: 90%;
+    margin: auto;
+}
+
+.ico_whatsapp{
+    width: 5%;
+    margin-left: 2%;
+}
