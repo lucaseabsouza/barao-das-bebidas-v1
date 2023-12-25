@@ -1,6 +1,9 @@
 nav{
     background-color: #FFB623;
     height: 20%;
+    position: sticky;
+    top: 0;
+    left: 0;
 }
 body{
     margin: 0%;
