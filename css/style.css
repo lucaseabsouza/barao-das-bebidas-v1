@@ -40,7 +40,8 @@ hr{
 h5{
     display: flex;
     justify-content: center;
-    font-size: 200%
+    font-size: 200%;
+    text-align: center;
 }
 
 a{
