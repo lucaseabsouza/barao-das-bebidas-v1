@@ -30,6 +30,7 @@ hr{
     font-size: 150%;
     line-height: 1.5;
     position: relative;
+    z-index: -1;
 }
 
 .como_pedir_chopp{
